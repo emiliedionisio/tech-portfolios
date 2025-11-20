@@ -1,4 +1,4 @@
-# ☁️ ENTER YOUR NAME
+# ☁️ ENTER YOUR FULL NAME
 ## 🔐 CLOUD SECURITY ENGINEER | DevSecOps | AWS | Infrastructure Security  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/<your-linkedin>)
