@@ -1,7 +1,5 @@
-## 🔹 Cybersecurity, Networking, and Cloud Student
-
-# Your Name 
-**Cybersecurity, Networking, and Cloud Student | [Your Training School Name]**  
+# ☁️ ENTER YOUR FULL NAME
+## **Cybersecurity, Networking, and Cloud Student | [Your Training School Name]**  
 
 📌 **About Me:**  
 I am a dedicated **Cybersecurity, Networking, and Cloud Student** with a passion for understanding how technology and security work together. 
